@@ -16,7 +16,7 @@ In this portion of the assessment, our group researched a machine learning algor
 
 After our research, we were asked to create an 8-12 minute presentation on our designated algorithm, giving a semi technical, high level overview of:
 
-What it does and how it works,
+What it does and how it works,/n
 What are the advantages and disadvantages of using it,
 What specific data processing steps should be followed before implementing the model, and
 What are the relevant hyperparameters and how can they be tuned.
