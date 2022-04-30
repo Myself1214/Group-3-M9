@@ -1,6 +1,6 @@
-Group 3
-Sharif Rakhimov, Will Stearns, Derek Preslar, Phil Carbino
 Module 9 Assessment
+
+Group 3: (Sharif Rakhimov, Will Stearns, Derek Preslar, Phil Carbino)
 
 README:
 
