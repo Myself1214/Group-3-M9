@@ -3,6 +3,7 @@ Sharif Rakhimov, Will Stearns, Derek Preslar, Phil Carbino
 Module 9 Assessment
 
 README:
+
 Hello, and welcome to our repository for the Module 09 group assessment.
 
 In this exercise, we were placed into groups of four to research machine learning algorithms and present our findings to the rest of the class. The exercise consisted of two parts, both of which are outlined below.
@@ -10,6 +11,7 @@ In this exercise, we were placed into groups of four to research machine learnin
 
 
 Part I
+
 In this portion of the assessment, our group researched a machine learning algortihm that was previously not covered in class. Our group studied the 'Naive Bayes' algorithm.
 
 After our research, we were asked to create an 8-12 minute presentation on our designated algorithm, giving a semi technical, high level overview of:
@@ -26,6 +28,7 @@ We also put together an appendix with links to sources of our research that we u
 
 
 Part II
+
 In this portion of the assessment, our group set out to implement a model using an algotithm researched by one of the other groups. In this case, we were tasked with implementing the 'SVM', or 'Support Vector Machine' algorithm.
 
 To complete this task, we first studied the presentation materials and appendix via the github repository provided by the group who initially researched the algortihm:
