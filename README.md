@@ -16,10 +16,13 @@ In this portion of the assessment, our group researched a machine learning algor
 
 After our research, we were asked to create an 8-12 minute presentation on our designated algorithm, giving a semi technical, high level overview of:
 
-What it does and how it works,/n
-What are the advantages and disadvantages of using it,
+What it does and how it works,
+
+What the advantages and disadvantages of using it are,
+
 What specific data processing steps should be followed before implementing the model, and
-What are the relevant hyperparameters and how can they be tuned.
+
+What the relevant hyperparameters are and how can they be tuned.
 
 Following these guidelines, we created a Powerpoint presentation which can be found in the 'Naive Bayes Notes' file. These is also a PDF version under the name 'naive-bayes-presentation'.
 
